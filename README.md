@@ -1,2 +1,7 @@
 # scrum-framework-completo
-Repositório dedicado ao desafio de projeto "Completando o Framework" da DIO, parte da certificação de Scrum Master. O projeto pode ser acessado através do seguinte link: [Framework Scrum Completo.png] (https://github.com/profamar/scrum-framework-completo/blob/main/Framework%20Scrum%20Completo.png)
+Repositório do Desafio "Completando o Framework" 🛠️
+Bem-vindo(a) ao repositório dedicado ao desafio do projeto "Completando o Framework", parte da certificação de Scrum Master oferecida pela DIO. Neste projeto, você encontrará o framework Scrum completo, abordando todos os conceitos essenciais e suas aplicações práticas.
+
+🔗 Acesse o Projeto
+Você pode visualizar o framework Scrum completo no seguinte link:
+Framework Scrum Completo.png
